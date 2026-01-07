@@ -113,7 +113,7 @@ TypeScript — Adds type safety and improves maintainability
 
 Next.js — React-based framework with client-side and server-side rendering
 
-Tailwind CSS — Utility-first CSS framework for consistent, responsive UI design
+Tailwind CSS — Utility-first CSS framework for consistent, responsive UI design,   
 📦 Project Setup (Basic):
 git clone https://github.com/Mr-Moosa-official/Splitzy.git
 cd Splitzy
